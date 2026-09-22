@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "application": "New Planimeter",
+    "version": "1.0.0",
+    "export_timestamp": "2026-09-22T21:28:53.623011",
+    "source_image": "triangle_plot.png",
+    "image_width_px": 1200,
+    "image_height_px": 800
+  },
+  "calibration": {
+    "scale_factor": 0.05,
+    "unit": "m",
+    "is_calibrated": true,
+    "calibration_type": "2-point",
+    "known_distance": 10.0,
+    "pixel_distance": 200.0,
+    "pixels_per_unit": 20.0
+  },
+  "geometry": {
+    "vertex_count": 3,
+    "area": 300.0,
+    "area_unit": "m²",
+    "perimeter": 86.05551275463989,
+    "perimeter_unit": "m",
+    "centroid_cad": {
+      "x": 25.0,
+      "y": 16.666666666666668
+    },
+    "centroid_px": {
+      "x": 500.0,
+      "y": 466.6666666666667
+    },
+    "cad_vertices": [
+      {
+        "x": 15.0,
+        "y": 10.0
+      },
+      {
+        "x": 45.0,
+        "y": 10.0
+      },
+      {
+        "x": 15.0,
+        "y": 30.0
+      }
+    ],
+    "image_vertices_px": [
+      {
+        "x": 300,
+        "y": 600
+      },
+      {
+        "x": 900,
+        "y": 600
+      },
+      {
+        "x": 300,
+        "y": 200
+      }
+    ]
+  },
+  "autocad_settings": {
+    "boundary_layer": "IMAGE_AREA_BOUNDARY",
+    "boundary_color_index": 4,
+    "label_layer": "IMAGE_AREA_LABEL",
+    "label_color_index": 2,
+    "text_height": 1.0,
+    "auto_zoom": true,
+    "create_closed_polyline": true,
+    "annotate_area": true
+  }
+}

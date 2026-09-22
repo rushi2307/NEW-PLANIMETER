@@ -1,0 +1,242 @@
+{
+  "triangle_plot.png": {
+    "name": "Triangle Plot",
+    "scale_factor": 0.05,
+    "unit": "m",
+    "ref_line_px": [
+      [
+        940,
+        750
+      ],
+      [
+        1140,
+        750
+      ]
+    ],
+    "ref_line_distance": 10.0,
+    "ground_truth_area": 300.0,
+    "ground_truth_perimeter": 86.0555,
+    "pixel_points": [
+      [
+        300,
+        600
+      ],
+      [
+        900,
+        600
+      ],
+      [
+        300,
+        200
+      ]
+    ]
+  },
+  "trapezoid_plot.png": {
+    "name": "Trapezoid Plot",
+    "scale_factor": 0.05,
+    "unit": "m",
+    "ref_line_px": [
+      [
+        940,
+        750
+      ],
+      [
+        1140,
+        750
+      ]
+    ],
+    "ref_line_distance": 10.0,
+    "ground_truth_area": 650.0,
+    "ground_truth_perimeter": 107.9762,
+    "pixel_points": [
+      [
+        200,
+        600
+      ],
+      [
+        1000,
+        600
+      ],
+      [
+        800,
+        200
+      ],
+      [
+        300,
+        200
+      ]
+    ]
+  },
+  "l_shaped_plot.png": {
+    "name": "L-Shaped Plot",
+    "scale_factor": 0.05,
+    "unit": "m",
+    "ref_line_px": [
+      [
+        940,
+        750
+      ],
+      [
+        1140,
+        750
+      ]
+    ],
+    "ref_line_distance": 10.0,
+    "ground_truth_area": 1125.0,
+    "ground_truth_perimeter": 160.0,
+    "pixel_points": [
+      [
+        100,
+        650
+      ],
+      [
+        1100,
+        650
+      ],
+      [
+        1100,
+        350
+      ],
+      [
+        600,
+        350
+      ],
+      [
+        600,
+        50
+      ],
+      [
+        100,
+        50
+      ]
+    ]
+  },
+  "concave_plot.png": {
+    "name": "Concave Plot",
+    "scale_factor": 0.05,
+    "unit": "m",
+    "ref_line_px": [
+      [
+        940,
+        750
+      ],
+      [
+        1140,
+        750
+      ]
+    ],
+    "ref_line_distance": 10.0,
+    "ground_truth_area": 636.125,
+    "ground_truth_perimeter": 106.1316,
+    "pixel_points": [
+      [
+        200,
+        600
+      ],
+      [
+        500,
+        650
+      ],
+      [
+        850,
+        580
+      ],
+      [
+        950,
+        350
+      ],
+      [
+        750,
+        200
+      ],
+      [
+        550,
+        320
+      ],
+      [
+        350,
+        180
+      ],
+      [
+        180,
+        380
+      ]
+    ]
+  },
+  "irregular_survey_plot.png": {
+    "name": "Cadastral Survey Parcel",
+    "scale_factor": 0.05,
+    "unit": "m",
+    "ref_line_px": [
+      [
+        940,
+        750
+      ],
+      [
+        1140,
+        750
+      ]
+    ],
+    "ref_line_distance": 10.0,
+    "ground_truth_area": 863.125,
+    "ground_truth_perimeter": 117.6106,
+    "pixel_points": [
+      [
+        180,
+        580
+      ],
+      [
+        320,
+        640
+      ],
+      [
+        520,
+        620
+      ],
+      [
+        740,
+        660
+      ],
+      [
+        960,
+        590
+      ],
+      [
+        1020,
+        440
+      ],
+      [
+        940,
+        290
+      ],
+      [
+        820,
+        180
+      ],
+      [
+        660,
+        220
+      ],
+      [
+        530,
+        160
+      ],
+      [
+        380,
+        210
+      ],
+      [
+        260,
+        170
+      ],
+      [
+        140,
+        310
+      ],
+      [
+        160,
+        460
+      ]
+    ]
+  }
+}
